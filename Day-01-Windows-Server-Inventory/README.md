@@ -1,0 +1,1 @@
+Built and validated a six-field PowerShell inventory report for a Windows Server 2025 domain controller in an Active Directory homelab, using CIM queries to collect OS details, calculate uptime, and export a snapshot of 91 running services to CSV.
